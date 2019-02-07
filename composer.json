@@ -4,7 +4,7 @@
     "keywords": ["aws", "dynamodb", "kms", "credstash"],
     "type": "library",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "authors": [
         {
             "name": "Carson Full",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "aws/aws-sdk-php": "^3.9",
+        "aws/aws-sdk-php": ">=3.87.5",
         "ext-openssl": "*",
         "php": "^5.5.9 || ^7.0",
         "symfony/polyfill-php56": "^1.0",
