@@ -9,7 +9,7 @@ More information about what CredStash is, how it works, and how to set it up can
 ## Installation
 
 ```txt
-$ composer require gmo/credstash
+$ composer require stonewaves/credstash
 ```
 
 ## PHP Usage
