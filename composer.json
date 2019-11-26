@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "aws/aws-sdk-php": ">=3.87.5",
+        "aws/aws-sdk-php": "3.121.1",
         "ext-openssl": "*",
         "php": "^5.5.9 || ^7.0",
         "symfony/polyfill-php56": "^1.0",
